@@ -3,8 +3,8 @@
   "username": "yboenec",
   "name": "Boenec Yann",
   "userimg": "https://avatars3.githubusercontent.com/u/11791173?v=4",
-  "sort": "star",
-  "order": "desc",
+  "sort": "created",
+  "order": "asc",
   "includeFork": false,
   "theme": "light.css"
  }
